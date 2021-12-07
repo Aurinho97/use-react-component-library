@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@Aurinho97/react-component-library@^1.3.1":
-  version "1.3.1"
-  resolved "https://npm.pkg.github.com/download/@Aurinho97/react-component-library/1.3.1/46b5cbcb381c28274c543ea5bdd3d5527070e3f0cb827ba86d305227484e2f18#40db4d6be8f11aceeec8ae2f11b80423d4806db9"
-  integrity sha512-L/j12eH5Zi145qNjfIyXf/a+L5ddKOld/X+ZRBXFJgjz9PMEbyFzF6S8nRfeox0GIYrV5vFbxATkXHamxWO2TA==
+"@Aurinho97/react-component-library@^1.4.0":
+  version "1.4.0"
+  resolved "https://npm.pkg.github.com/download/@Aurinho97/react-component-library/1.4.0/df51862fc072345cf6196c6ab825dcea31eaf73a06b2e59713853956b8a0ae54#5fc097975d57acbc9c02d904b9f9b126dd615e9b"
+  integrity sha512-yIY32/yoTO1Mtk0w2xVX8bEcoDTVGsSKw4BML+h0kweHRjJGOh1VyNsNDTYnRPDc1UZHd60TtDXI/MQkzSfdaQ==
 
 "@babel/code-frame@7.10.4":
   version "7.10.4"
