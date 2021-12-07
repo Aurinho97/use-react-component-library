@@ -13,3 +13,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/**
+  Overrides
+ */
+:root {
+  --global-color-blue-400: 100 116 241;
+}
